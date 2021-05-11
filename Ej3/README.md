@@ -9,3 +9,17 @@
 | P42859.2 | Mus musculus |
 | P51111.1 | Rattus norvegicus |
 | P51112.1 | Takifugu rubripes |
+
+## Resultados obtenidos
+- __Identical positions:__ 2099
+- __Identity:__ 65.065%
+- __Similar positions:__ 634
+
+### Árbol filogenético
+![alt text][logo]
+
+[logo]: ./tree.png
+
+- En el árbol filogenético se puede observar como el Rattus norvegicus y el Homo sapiens se encuentran más relacionados ya que tienen un ancenstro común mucho más cercano que el resto de los organismos evaluados. A esto les sigue el Mus musculus, que se relaciona con los anteriores dos organismos y por último, Takifugu rubripes.
+
+## Conclusión
