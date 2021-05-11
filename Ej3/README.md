@@ -20,6 +20,6 @@
 
 [logo]: ./tree.png
 
-- En el árbol filogenético se puede observar como el Rattus norvegicus y el Homo sapiens se encuentran más relacionados ya que tienen un ancenstro común mucho más cercano que el resto de los organismos evaluados. A esto les sigue el Mus musculus, que se relaciona con los anteriores dos organismos y por último, Takifugu rubripes.
+- En el árbol filogenético se puede observar como el **Rattus norvegicus** y el **Homo sapiens** se encuentran más relacionados ya que tienen un ancenstro común mucho más cercano que el resto de los organismos evaluados. A esto les sigue el **Mus musculus**, que se relaciona con los anteriores dos organismos y por último, **Takifugu rubripes**.
 
 ## Conclusión
