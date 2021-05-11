@@ -31,7 +31,7 @@
 -   Quedando el archivo a ejecutar 
 
 ```
-   perl Ex4.pm myblast.report sapiens
+   perl ex4.pl myblast.report sapiens
 ```
 
 -   Como resultado se obtendrán las distintas secuencias pertenecientes a los hits (las mismas se guardarán en la misma carpeta desde donde se ejecutó el archivo)
