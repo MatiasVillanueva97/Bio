@@ -23,7 +23,7 @@
 -   Ejecutamos el script con el siguiente comando:
 
 ```
-   perl Ex4.pm ARG0 ARG1
+   perl ex4.pl ARG0 ARG1
 ```
 
 -   Siendo el **ARG0** el reporte mencionado anteriormente y **ARG1** el patrón a buscar en la descripción del archivo.
