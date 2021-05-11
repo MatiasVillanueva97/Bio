@@ -30,3 +30,6 @@
 ```
     perl ex5.pl
 ```
+-   Tras su ejecución se generará el archivo `Ex5-ResultadoORF` y `Ex5-Resultado.patmatmotifs`.
+
+-   El archivo patmatmotifs contendrá los distintos hits obtenidos con la longitud de los mismos.
