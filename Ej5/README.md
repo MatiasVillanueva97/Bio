@@ -20,3 +20,13 @@
 -   Tener descargado la base de datos [Prosite.dat](https://ftp.expasy.org/databases/prosite/prosite.dat) y [Prosite.doc](https://ftp.expasy.org/databases/prosite/prosite.doc)
 
 ## Instrucciones
+-   Ejecutar
+
+```
+    sudo prosextract
+```
+-   Con el objetivo de extraer la base de datos en el EMBOSS data.
+-   Ejecutar
+```
+    perl ex5.pl
+```
