@@ -26,3 +26,5 @@
 -   Tras su ejecución se generará el archivo `protein.fas` en el cual se encontrarán las secuencias de proteinas.
 
 ## Conclusión
+
+-   En base a la herramienta ORFfinder y revisando lo que se encuentra en la base de datos de NCBI, se llego a la conclusión, que para este gen en particular, el marco de lectura correcto es NM_001388492-1F.
