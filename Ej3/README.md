@@ -23,3 +23,7 @@
 - En el árbol filogenético se puede observar como el **Rattus norvegicus** y el **Homo sapiens** se encuentran más relacionados ya que tienen un ancenstro común mucho más cercano que el resto de los organismos evaluados. A esto les sigue el **Mus musculus**, que se relaciona con los anteriores dos organismos y por último, **Takifugu rubripes**.
 
 ## Conclusión
+-   De las 3148 posiciones alineadas, 2099 coincidieron correctamente entre las cuatro especies evaluadas, dichas secuencias que tienen en común entre los cuatro organismos posiblemente fueron y son importantes para los mismos a lo largo de toda su evolución, pudiendo suponer que cumple un rol importante para los mismos por lo cual no se han perdido ni diferenciado tanto.
+-   Que haya 634 que sean similares nos da el indicio también de que dicha proteína debe tener propiedades químicas muy similares.
+
+
