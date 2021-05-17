@@ -20,6 +20,6 @@ _Para llevar a cabo dicho trabajo práctico se escogió [HTT](https://www.ncbi.n
 |:---:|:---:|
 | 155.553-4 | Cáceres, Germán |
 | 155.654-0 | Maiori, Gabriel |
-|  | Lorenzo, Santiago |
+| 155.493-1 | Lorenzo, Santiago |
 | 156.296-4 | Rossi, Juliana |
 | 155.983-7 | Villanueva, Matias |
